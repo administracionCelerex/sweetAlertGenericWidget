@@ -1,3 +1,12 @@
-.swal2-container.swal2-backdrop-show, .swal2-container.swal2-noanimation {
-    background: inherit !important;
+.swal2-container.swal2-backdrop-show,
+.swal2-container.swal2-noanimation {
+  background: #fff !important;
+}
+
+.elemContainment {
+  padding: 0 !important;
+}
+
+.zc-pb-tile-container {
+  padding: 0 !important;
 }
