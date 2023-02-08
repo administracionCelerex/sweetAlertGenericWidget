@@ -1,6 +1,6 @@
 declare const ZOHO: any;
 declare const Swal: any;
-
+//
 interface SweetAlertElements {
   title: string;
   text: string;

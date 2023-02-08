@@ -4,4 +4,4 @@ package-lock.json
 cert.pem
 key.pem
 dist/
-.js
+*.js
